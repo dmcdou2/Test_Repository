@@ -1,0 +1,698 @@
+{
+ "named": [
+  "08144500",
+  "08150000",
+  "08151500",
+  "08153500",
+  "08165500",
+  "08167000",
+  "08171000",
+  "08178880",
+  "08190000",
+  "08190500",
+  "08195000",
+  "08198000"
+ ],
+ "extra": [
+  "0818999010",
+  "0817887350",
+  "08166250",
+  "08197936",
+  "08166140",
+  "08150700",
+  "08449100",
+  "08148500"
+ ],
+ "meta": {
+  "08103800": {
+   "name": "Lampasas Rv nr Kempner, TX",
+   "lat": 31.0793403,
+   "lon": -98.0166919
+  },
+  "08103900": {
+   "name": "S Fk Rocky Ck nr Briggs, TX",
+   "lat": 30.91156805,
+   "lon": -98.0369676
+  },
+  "08103940": {
+   "name": "Lampasas Rv at Ding Dong, TX",
+   "lat": 30.97252778,
+   "lon": -97.7785278
+  },
+  "08104300": {
+   "name": "Salado Ck at Salado, TX",
+   "lat": 30.9443472,
+   "lon": -97.534075
+  },
+  "0810464660": {
+   "name": "N Fk San Gabriel Rv at Reagan Blvd nr Leander, TX",
+   "lat": 30.69775,
+   "lon": -97.8492222
+  },
+  "08104700": {
+   "name": "N Fk San Gabriel Rv nr Georgetown, TX",
+   "lat": 30.6618646,
+   "lon": -97.7114164
+  },
+  "08104900": {
+   "name": "S Fk San Gabriel Rv at Georgetown, TX",
+   "lat": 30.6257499,
+   "lon": -97.6911204
+  },
+  "08105095": {
+   "name": "Berry Ck at Airport Rd nr Georgetown, TX",
+   "lat": 30.70324685,
+   "lon": -97.6663985
+  },
+  "08105872": {
+   "name": "Brushy Ck at Cedar Park, TX",
+   "lat": 30.52518056,
+   "lon": -97.7499917
+  },
+  "08105883": {
+   "name": "Brushy Ck at IH 35, Round Rock, TX",
+   "lat": 30.51290556,
+   "lon": -97.6864361
+  },
+  "08105886": {
+   "name": "Lake Ck at Lake Ck Pkwy nr Austin, TX",
+   "lat": 30.46555556,
+   "lon": -97.7878889
+  },
+  "08105888": {
+   "name": "Brushy Ck at Kenney Fort Blvd at Round Rock, TX",
+   "lat": 30.51239444,
+   "lon": -97.6366722
+  },
+  "08144500": {
+   "name": "San Saba Rv at Menard, TX",
+   "lat": 30.91907405,
+   "lon": -99.785643
+  },
+  "08145000": {
+   "name": "Brady Ck at Brady, TX",
+   "lat": 31.1382357,
+   "lon": -99.3350754
+  },
+  "08148500": {
+   "name": "N Llano Rv nr Junction, TX",
+   "lat": 30.5174101,
+   "lon": -99.806179
+  },
+  "08149900": {
+   "name": "S Llano Rv at Flat Rock Ln at Junction, TX",
+   "lat": 30.47901389,
+   "lon": -99.7780389
+  },
+  "08150000": {
+   "name": "Llano Rv nr Junction, TX",
+   "lat": 30.50435487,
+   "lon": -99.7345097
+  },
+  "08150700": {
+   "name": "Llano Rv nr Mason, TX",
+   "lat": 30.66073685,
+   "lon": -99.1092185
+  },
+  "08150800": {
+   "name": "Beaver Ck nr Mason, TX",
+   "lat": 30.64351548,
+   "lon": -99.0958848
+  },
+  "08151500": {
+   "name": "Llano Rv at Llano, TX",
+   "lat": 30.7513041,
+   "lon": -98.6697773
+  },
+  "08152000": {
+   "name": "Sandy Ck nr Kingsland, TX",
+   "lat": 30.5576991,
+   "lon": -98.472271
+  },
+  "08152900": {
+   "name": "Pedernales Rv nr Fredericksburg, TX",
+   "lat": 30.22048584,
+   "lon": -98.8697812
+  },
+  "08153500": {
+   "name": "Pedernales Rv nr Johnson City, TX",
+   "lat": 30.29187379,
+   "lon": -98.3994904
+  },
+  "08154700": {
+   "name": "Bull Ck at Loop 360 nr Austin, TX",
+   "lat": 30.37214825,
+   "lon": -97.7847301
+  },
+  "08155200": {
+   "name": "Barton Ck at SH 71 nr Oak Hill, TX",
+   "lat": 30.29631587,
+   "lon": -97.925565
+  },
+  "08155240": {
+   "name": "Barton Ck at Lost Ck Blvd nr Austin, TX",
+   "lat": 30.27409788,
+   "lon": -97.84475235
+  },
+  "08155300": {
+   "name": "Barton Ck at Loop 360, Austin, TX",
+   "lat": 30.24465306,
+   "lon": -97.8022283
+  },
+  "08155400": {
+   "name": "Barton Ck abv Barton Spgs at Austin, TX",
+   "lat": 30.26354168,
+   "lon": -97.772228
+  },
+  "08155541": {
+   "name": "W Bouldin Ck at Oltorf Rd, Austin, TX",
+   "lat": 30.24666667,
+   "lon": -97.7691667
+  },
+  "08156675": {
+   "name": "Shoal Ck at Silverway Dr, Austin, TX",
+   "lat": 30.35416667,
+   "lon": -97.7388889
+  },
+  "08156800": {
+   "name": "Shoal Ck at W 12th St, Austin, TX",
+   "lat": 30.276598,
+   "lon": -97.7503052
+  },
+  "08156910": {
+   "name": "Waller Ck at Koenig Lane, Austin, TX",
+   "lat": 30.32277778,
+   "lon": -97.7227778
+  },
+  "08157540": {
+   "name": "Waller Ck at Red River St, Austin, TX",
+   "lat": 30.27162778,
+   "lon": -97.7355583
+  },
+  "08157560": {
+   "name": "Waller Ck at E 1st St, Austin, TX",
+   "lat": 30.26194167,
+   "lon": -97.7397
+  },
+  "08158000": {
+   "name": "Colorado Rv at Austin, TX",
+   "lat": 30.24613889,
+   "lon": -97.6800556
+  },
+  "08158030": {
+   "name": "Boggy Ck at Manor Rd, Austin, TX",
+   "lat": 30.2861111,
+   "lon": -97.7086111
+  },
+  "08158035": {
+   "name": "Boggy Ck at Webberville Rd, Austin, TX",
+   "lat": 30.26305556,
+   "lon": -97.7125
+  },
+  "08158045": {
+   "name": "Ft Br Boggy Ck at Manor Rd, Austin, TX",
+   "lat": 30.30055556,
+   "lon": -97.6855556
+  },
+  "08158200": {
+   "name": "Walnut Ck at Dessau Rd, Austin, TX",
+   "lat": 30.375205,
+   "lon": -97.6605601
+  },
+  "08158380": {
+   "name": "Little Walnut Ck at Georgian Dr, Austin, TX",
+   "lat": 30.3543736,
+   "lon": -97.6980818
+  },
+  "08158600": {
+   "name": "Walnut Ck at Webberville Rd, Austin, TX",
+   "lat": 30.2832642,
+   "lon": -97.655003
+  },
+  "08158700": {
+   "name": "Onion Ck nr Driftwood, TX",
+   "lat": 30.08298924,
+   "lon": -98.0077859
+  },
+  "08158810": {
+   "name": "Bear Ck bl FM 1826 nr Driftwood, TX",
+   "lat": 30.15548749,
+   "lon": -97.9400076
+  },
+  "08158813": {
+   "name": "Bear Ck at Spillar Ranch Rd nr Manchaca, TX",
+   "lat": 30.1636611,
+   "lon": -97.9070194
+  },
+  "08158824": {
+   "name": "Little Bear Ck at Wenzel nr Manchaca, TX",
+   "lat": 30.125833,
+   "lon": -97.903889
+  },
+  "08158827": {
+   "name": "Onion Ck at Twin Creeks Rd nr Manchaca, TX",
+   "lat": 30.12632345,
+   "lon": -97.8211161
+  },
+  "08158840": {
+   "name": "Slaughter Ck at FM 1826 nr Austin, TX",
+   "lat": 30.20909967,
+   "lon": -97.90336492
+  },
+  "08158860": {
+   "name": "Slaughter Ck at FM 2304 nr Austin, TX",
+   "lat": 30.1621554,
+   "lon": -97.8322279
+  },
+  "08158922": {
+   "name": "Williamson Ck at Brush Cntry Blvd, Oak Hill, TX",
+   "lat": 30.2263215,
+   "lon": -97.8414188
+  },
+  "08158927": {
+   "name": "Kincheon Br at William Cannon Blvd, Austin, TX",
+   "lat": 30.2124722,
+   "lon": -97.8288611
+  },
+  "08158930": {
+   "name": "Williamson Ck at Manchaca Rd, Austin, TX",
+   "lat": 30.22132179,
+   "lon": -97.7936396
+  },
+  "08158970": {
+   "name": "Williamson Ck at Jimmy Clay Rd, Austin, TX",
+   "lat": 30.189378,
+   "lon": -97.732504
+  },
+  "08159000": {
+   "name": "Onion Ck at US Hwy 183, Austin, TX",
+   "lat": 30.17798987,
+   "lon": -97.6886138
+  },
+  "08159105": {
+   "name": "Eastern Trib to Dry Ck nr Del Valle, TX",
+   "lat": 30.17647778,
+   "lon": -97.5869167
+  },
+  "08159110": {
+   "name": "Western Trib to Gilleland Ck nr Manor, TX",
+   "lat": 30.38349444,
+   "lon": -97.6020611
+  },
+  "08159250": {
+   "name": "Maha Ck at Von Quintus Rd nr Del Valle, TX",
+   "lat": 30.09453056,
+   "lon": -97.6593222
+  },
+  "08165300": {
+   "name": "N Fk Guadalupe Rv nr Hunt, TX",
+   "lat": 30.06410028,
+   "lon": -99.3870175
+  },
+  "08165500": {
+   "name": "Guadalupe Rv at Hunt, TX",
+   "lat": 30.06993074,
+   "lon": -99.3217122
+  },
+  "08166000": {
+   "name": "Johnson Ck nr Ingram, TX",
+   "lat": 30.10020707,
+   "lon": -99.2831006
+  },
+  "08166140": {
+   "name": "Guadalupe Rv abv Bear Ck at Kerrville, TX",
+   "lat": 30.06965617,
+   "lon": -99.1953454
+  },
+  "08166200": {
+   "name": "Guadalupe Rv at Kerrville, TX",
+   "lat": 30.053266,
+   "lon": -99.163375
+  },
+  "08166250": {
+   "name": "Guadalupe Rv nr Center Point, TX",
+   "lat": 29.98777778,
+   "lon": -99.11
+  },
+  "08167000": {
+   "name": "Guadalupe Rv at Comfort, TX",
+   "lat": 29.96523889,
+   "lon": -98.8971667
+  },
+  "08167200": {
+   "name": "Guadalupe Rv at FM 474 nr Bergheim, TX",
+   "lat": 29.89358333,
+   "lon": -98.6698333
+  },
+  "08167500": {
+   "name": "Guadalupe Rv nr Spring Branch, TX",
+   "lat": 29.8604957,
+   "lon": -98.3836275
+  },
+  "08167800": {
+   "name": "Guadalupe Rv at Sattler, TX",
+   "lat": 29.85910758,
+   "lon": -98.1800106
+  },
+  "08168500": {
+   "name": "Guadalupe Rv abv Comal Rv at New Braunfels, TX",
+   "lat": 29.7149465,
+   "lon": -98.1100083
+  },
+  "08168797": {
+   "name": "Dry Comal Ck at Loop 337 nr New Braunfels, TX",
+   "lat": 29.688,
+   "lon": -98.1548333
+  },
+  "08168913": {
+   "name": "Comal Rv (oc) nr Landa Lk, New Braunfels, TX",
+   "lat": 29.71007778,
+   "lon": -98.1316611
+  },
+  "08168932": {
+   "name": "Comal Rv (nc) nr Landa Lk, New Braunfels, TX",
+   "lat": 29.7089611,
+   "lon": -98.1334417
+  },
+  "08169000": {
+   "name": "Comal Rv at New Braunfels, TX",
+   "lat": 29.70640833,
+   "lon": -98.1222083
+  },
+  "08169500": {
+   "name": "Guadalupe Rv at New Braunfels, TX",
+   "lat": 29.69800265,
+   "lon": -98.1066748
+  },
+  "08169792": {
+   "name": "Guadalupe Rv at FM 1117 nr Seguin, TX",
+   "lat": 29.53616667,
+   "lon": -97.8809444
+  },
+  "08169845": {
+   "name": "Guadalupe Rv at CR 143 nr Gonzales, TX",
+   "lat": 29.4876,
+   "lon": -97.5875056
+  },
+  "08170000": {
+   "name": "San Marcos Spgs at San Marcos, TX",
+   "lat": 29.88910804,
+   "lon": -97.9341718
+  },
+  "08170500": {
+   "name": "San Marcos Rv at San Marcos, TX",
+   "lat": 29.88910804,
+   "lon": -97.9341718
+  },
+  "08170950": {
+   "name": "Blanco Rv at Fischer Store Rd nr Fischer, TX",
+   "lat": 30.00058333,
+   "lon": -98.2003611
+  },
+  "08171000": {
+   "name": "Blanco Rv at Wimberley, TX",
+   "lat": 29.99438343,
+   "lon": -98.088925
+  },
+  "08171290": {
+   "name": "Blanco Rv at Halifax Rch nr Kyle, TX",
+   "lat": 30.00555556,
+   "lon": -97.9525
+  },
+  "08171300": {
+   "name": "Blanco Rv nr Kyle, TX",
+   "lat": 29.9793843,
+   "lon": -97.910031
+  },
+  "08171350": {
+   "name": "Blanco Rv at San Marcos, TX",
+   "lat": 29.8795111,
+   "lon": -97.9107528
+  },
+  "08171400": {
+   "name": "San Marcos Rv nr Martindale, TX",
+   "lat": 29.8322861,
+   "lon": -97.8423833
+  },
+  "08172000": {
+   "name": "San Marcos Rv at Luling, TX",
+   "lat": 29.66633885,
+   "lon": -97.6508561
+  },
+  "08172400": {
+   "name": "Plum Ck at Lockhart, TX",
+   "lat": 29.92299765,
+   "lon": -97.679191
+  },
+  "08173000": {
+   "name": "Plum Ck nr Luling, TX",
+   "lat": 29.699444,
+   "lon": -97.603333
+  },
+  "08177700": {
+   "name": "Olmos Ck at Dresden Dr, San Antonio, TX",
+   "lat": 29.4991192,
+   "lon": -98.5102958
+  },
+  "08178000": {
+   "name": "San Antonio Rv at San Antonio, TX",
+   "lat": 29.4096781,
+   "lon": -98.4950458
+  },
+  "08178050": {
+   "name": "San Antonio Rv at Mitchell St, San Antonio, TX",
+   "lat": 29.393011,
+   "lon": -98.494739
+  },
+  "08178500": {
+   "name": "San Pedro Ck at Furnish St, San Antonio, TX",
+   "lat": 29.40634484,
+   "lon": -98.5108795
+  },
+  "08178565": {
+   "name": "San Antonio Rv at Loop 410, San Antonio, TX",
+   "lat": 29.32218095,
+   "lon": -98.450322
+  },
+  "08178585": {
+   "name": "Salado Ck at Wilderness Rd, San Antonio, TX",
+   "lat": 29.63078135,
+   "lon": -98.5655755
+  },
+  "08178593": {
+   "name": "Salado Ck at Blanco Rd, San Antonio, TX",
+   "lat": 29.5638611,
+   "lon": -98.5196667
+  },
+  "08178700": {
+   "name": "Salado Ck at Loop 410, San Antonio, TX",
+   "lat": 29.5160633,
+   "lon": -98.4311271
+  },
+  "08178800": {
+   "name": "Salado Ck at Loop 13, San Antonio, TX",
+   "lat": 29.35717994,
+   "lon": -98.412821
+  },
+  "0817887350": {
+   "name": "Medina Rv at Patterson Rd at Medina, TX",
+   "lat": 29.79389167,
+   "lon": -99.2485944
+  },
+  "08178880": {
+   "name": "Medina Rv at Bandera, TX",
+   "lat": 29.72383537,
+   "lon": -99.070035
+  },
+  "08178980": {
+   "name": "Medina Rv abv English Crsg nr Pipe Creek, TX",
+   "lat": 29.69438889,
+   "lon": -98.9793056
+  },
+  "08180586": {
+   "name": "San Geronimo Ck nr Helotes, TX",
+   "lat": 29.61972778,
+   "lon": -98.7951528
+  },
+  "08180640": {
+   "name": "Medina Rv at La Coste, TX",
+   "lat": 29.3241246,
+   "lon": -98.813081
+  },
+  "08180700": {
+   "name": "Medina Rv nr Macdona, TX",
+   "lat": 29.33495798,
+   "lon": -98.689744
+  },
+  "08180800": {
+   "name": "Medina Rv nr Somerset, TX",
+   "lat": 29.26218286,
+   "lon": -98.5814074
+  },
+  "08181400": {
+   "name": "Helotes Ck at Helotes, TX",
+   "lat": 29.57856108,
+   "lon": -98.6916896
+  },
+  "08181435": {
+   "name": "Leon Ck at Lp 410 at San Antonio, TX",
+   "lat": 29.447875,
+   "lon": -98.6337111
+  },
+  "08181480": {
+   "name": "Leon Ck at IH 35, San Antonio, TX",
+   "lat": 29.32995837,
+   "lon": -98.5841856
+  },
+  "08181500": {
+   "name": "Medina Rv at San Antonio, TX",
+   "lat": 29.2641276,
+   "lon": -98.4908493
+  },
+  "08181800": {
+   "name": "San Antonio Rv nr Elmendorf, TX",
+   "lat": 29.2221853,
+   "lon": -98.3558463
+  },
+  "08183200": {
+   "name": "San Antonio Rv nr Floresville, TX",
+   "lat": 29.11,
+   "lon": -98.1744444
+  },
+  "08183900": {
+   "name": "Cibolo Ck nr Boerne, TX",
+   "lat": 29.77498889,
+   "lon": -98.7094694
+  },
+  "08183978": {
+   "name": "Cibolo Ck at Specht Rd nr Bulverde, TX",
+   "lat": 29.73677778,
+   "lon": -98.4933722
+  },
+  "08184050": {
+   "name": "Cibolo Ck at Smithson Valley Rd nr Bulverde, TX",
+   "lat": 29.74826667,
+   "lon": -98.4076833
+  },
+  "08185000": {
+   "name": "Cibolo Ck at Selma, TX",
+   "lat": 29.5941173,
+   "lon": -98.3111523
+  },
+  "08185065": {
+   "name": "Cibolo Ck nr Saint Hedwig, TX",
+   "lat": 29.50144444,
+   "lon": -98.18625
+  },
+  "08185100": {
+   "name": "Martinez Ck nr Saint Hedwig, TX",
+   "lat": 29.44388889,
+   "lon": -98.1688889
+  },
+  "08185500": {
+   "name": "Cibolo Ck at Sutherland Springs, TX",
+   "lat": 29.2797222,
+   "lon": -98.0533333
+  },
+  "08186000": {
+   "name": "Cibolo Ck nr Falls City, TX",
+   "lat": 29.01413629,
+   "lon": -97.9303065
+  },
+  "0818999010": {
+   "name": "Nueces Rv nr Barksdale, TX",
+   "lat": 29.71883333,
+   "lon": -100.039575
+  },
+  "08190000": {
+   "name": "Nueces Rv at Laguna, TX",
+   "lat": 29.42856679,
+   "lon": -99.997287
+  },
+  "08190500": {
+   "name": "W Nueces Rv nr Brackettville, TX",
+   "lat": 29.48108333,
+   "lon": -100.2391667
+  },
+  "08192000": {
+   "name": "Nueces Rv bl Uvalde, TX",
+   "lat": 29.12385015,
+   "lon": -99.8948062
+  },
+  "08195000": {
+   "name": "Frio Rv at Concan, TX",
+   "lat": 29.48856496,
+   "lon": -99.7047756
+  },
+  "08196000": {
+   "name": "Dry Frio Rv nr Reagan Wells, TX",
+   "lat": 29.50467576,
+   "lon": -99.7814452
+  },
+  "08196300": {
+   "name": "Dry Frio Rv at FM 2690 nr Knippa, TX",
+   "lat": 29.3736111,
+   "lon": -99.7041667
+  },
+  "08197500": {
+   "name": "Frio Rv bl Dry Frio Rv nr Uvalde, TX",
+   "lat": 29.2457934,
+   "lon": -99.6744978
+  },
+  "08197936": {
+   "name": "Sabinal Rv bl Mill Ck nr Vanderpool, TX",
+   "lat": 29.719,
+   "lon": -99.5487
+  },
+  "08198000": {
+   "name": "Sabinal Rv nr Sabinal, TX",
+   "lat": 29.4910644,
+   "lon": -99.4928241
+  },
+  "08198500": {
+   "name": "Sabinal Rv at Sabinal, TX",
+   "lat": 29.31430556,
+   "lon": -99.4804722
+  },
+  "08200000": {
+   "name": "Hondo Ck nr Tarpley, TX",
+   "lat": 29.57003056,
+   "lon": -99.2476889
+  },
+  "08200720": {
+   "name": "Hondo Ck at SH 173 nr Hondo, TX",
+   "lat": 29.3761111,
+   "lon": -99.1166667
+  },
+  "08200977": {
+   "name": "Middle Verde Ck at SH 173 nr Bandera, TX",
+   "lat": 29.56777778,
+   "lon": -99.0969444
+  },
+  "08201500": {
+   "name": "Seco Ck at Miller Rh nr Utopia, TX",
+   "lat": 29.573284,
+   "lon": -99.4030997
+  },
+  "08202700": {
+   "name": "Seco Ck at Rowe Rh nr D'Hanis, TX",
+   "lat": 29.37078917,
+   "lon": -99.2878185
+  },
+  "08204005": {
+   "name": "Leona Rv nr Uvalde, TX",
+   "lat": 29.1544077,
+   "lon": -99.7433888
+  },
+  "08449100": {
+   "name": "Dolan Ck abv Devils River nr Comstock, TX",
+   "lat": 29.888325,
+   "lon": -100.9898028
+  },
+  "08456310": {
+   "name": "Las Moras Spgs Dws of pool at Brackettville,TX",
+   "lat": 29.30791667,
+   "lon": -100.4192222
+  }
+ }
+}
