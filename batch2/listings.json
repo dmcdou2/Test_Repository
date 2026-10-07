@@ -1,0 +1,884 @@
+[
+ {
+  "id": "rce",
+  "name": "Rancho Cinco Estrella",
+  "county": "Real",
+  "lat": 29.7402,
+  "lon": -99.6262,
+  "pin": "exact",
+  "had_osrm": true
+ },
+ {
+  "id": "bass",
+  "name": "Bass & Hays Ranch",
+  "county": "Real",
+  "lat": 29.8118,
+  "lon": -99.8036,
+  "pin": "exact",
+  "had_osrm": true
+ },
+ {
+  "id": "fran",
+  "name": "Frances Creek Ranch",
+  "county": "Real",
+  "lat": 29.882486,
+  "lon": -99.883354,
+  "pin": "exact",
+  "had_osrm": true
+ },
+ {
+  "id": "exh",
+  "name": "Exotic Hills Ranch",
+  "county": "Real",
+  "lat": 29.78,
+  "lon": -99.93,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "cbe",
+  "name": "Canyon Breeze Estate",
+  "county": "Real",
+  "lat": 29.73358,
+  "lon": -99.79941,
+  "pin": "exact",
+  "had_osrm": true
+ },
+ {
+  "id": "bull",
+  "name": "Bullhead Creek Ranch",
+  "county": "Real",
+  "lat": 29.8,
+  "lon": -100.02,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "cve",
+  "name": "Camp Verde Escape",
+  "county": "Bandera",
+  "lat": 29.89,
+  "lon": -99.06,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "wrr",
+  "name": "West River Ranch",
+  "county": "Bandera",
+  "lat": 29.74,
+  "lon": -99.18,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "mof",
+  "name": "Moffett Ridge Ranch",
+  "county": "Bandera",
+  "lat": 29.77,
+  "lon": -99.1,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "vmr",
+  "name": "Vista Madrone Ranch",
+  "county": "Uvalde",
+  "lat": 29.66,
+  "lon": -99.5,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "vcr",
+  "name": "Verde Creek Ranch (China St)",
+  "county": "Kerr",
+  "lat": 29.94,
+  "lon": -99.03,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "bwr",
+  "name": "Blue Wildebeest Ranch",
+  "county": "Kerr",
+  "lat": 29.93,
+  "lon": -99.14,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "lat",
+  "name": "Latham 1222 Ranch",
+  "county": "Mason",
+  "lat": 30.78,
+  "lon": -99.4,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "bkt",
+  "name": "Bucket List Ranch",
+  "county": "Edwards",
+  "lat": 29.7768,
+  "lon": -100.2485,
+  "pin": "exact",
+  "had_osrm": true
+ },
+ {
+  "id": "jac",
+  "name": "JA Canyon",
+  "county": "Edwards",
+  "lat": 30.0191,
+  "lon": -100.1132,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "hlr",
+  "name": "High Lonesome Ranch",
+  "county": "Edwards",
+  "lat": 29.9,
+  "lon": -100.4,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "hh",
+  "name": "The H & H Ranch",
+  "county": "Edwards",
+  "lat": 29.93,
+  "lon": -100.6757,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "wpt",
+  "name": "Westpoint Ranch",
+  "county": "Edwards",
+  "lat": 30.2126,
+  "lon": -99.8015,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "mni",
+  "name": "M & I Ranch",
+  "county": "Sutton",
+  "lat": 30.36,
+  "lon": -100.53,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "dd",
+  "name": "Double D Ranch (KC 24)",
+  "county": "Kimble",
+  "lat": 30.55,
+  "lon": -100.02,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "jhr",
+  "name": "Junction Hunting Ranch",
+  "county": "Kimble",
+  "lat": 30.54,
+  "lon": -99.99,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "k189",
+  "name": "189 ac Kimble County (KC 3721)",
+  "county": "Kimble",
+  "lat": 30.67984,
+  "lon": -99.69749,
+  "pin": "exact",
+  "had_osrm": true
+ },
+ {
+  "id": "bda",
+  "name": "Bois D\" Arc Ranch",
+  "county": "Menard",
+  "lat": 30.87,
+  "lon": -99.94,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "dun",
+  "name": "Duncan River Ranch",
+  "county": "Menard",
+  "lat": 30.898,
+  "lon": -99.944,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "oak",
+  "name": "Oak Ridge Ranch",
+  "county": "Menard",
+  "lat": 30.72,
+  "lon": -99.58,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "fmm",
+  "name": "Flying MMM on the Llano",
+  "county": "Mason",
+  "lat": 30.61,
+  "lon": -99.21,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "ond",
+  "name": "Ondine Ranch",
+  "county": "Medina",
+  "lat": 29.5001,
+  "lon": -99.0098,
+  "pin": "exact",
+  "had_osrm": true
+ },
+ {
+  "id": "mtt",
+  "name": "Mt. Tremont Ranch",
+  "county": "Medina",
+  "lat": 29.58,
+  "lon": -99.1473,
+  "pin": "exact",
+  "had_osrm": true
+ },
+ {
+  "id": "lvc",
+  "name": "Lake View Canyon Ranch",
+  "county": "Medina",
+  "lat": 29.538,
+  "lon": -98.9149,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "boh",
+  "name": "Bohnert River Ranch",
+  "county": "Kendall",
+  "lat": 29.95,
+  "lon": -98.83,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "pal",
+  "name": "Palmetto Creek Ranch",
+  "county": "Kendall",
+  "lat": 29.82,
+  "lon": -98.84,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "cwc",
+  "name": "Cottonwood Creek Ranch",
+  "county": "Blanco",
+  "lat": 30.1,
+  "lon": -98.42,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "vvr",
+  "name": "Valley View Ranch",
+  "county": "Blanco",
+  "lat": 30.24,
+  "lon": -98.24,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "cir",
+  "name": "Circle A Ranch",
+  "county": "Gillespie",
+  "lat": 30.17,
+  "lon": -99.12,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "brr",
+  "name": "Barker-Rogers Ranch",
+  "county": "Gillespie",
+  "lat": 30.291,
+  "lon": -99.28027,
+  "pin": "exact",
+  "had_osrm": true
+ },
+ {
+  "id": "ado",
+  "name": "Adobe Springs Ranch",
+  "county": "Gillespie",
+  "lat": 30.36,
+  "lon": -98.84,
+  "pin": "approx",
+  "had_osrm": true
+ },
+ {
+  "id": "dout",
+  "name": "Double Trouble Ranch",
+  "county": "Real",
+  "lat": 30.055235,
+  "lon": -99.700676,
+  "pin": "exact",
+  "had_osrm": false
+ },
+ {
+  "id": "dtp",
+  "name": "Doe Trail Property",
+  "county": "Real",
+  "lat": 30.1,
+  "lon": -99.6,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "tris",
+  "name": "Triple 4\"s Ranch",
+  "county": "Real",
+  "lat": 29.844227,
+  "lon": -99.904106,
+  "pin": "exact",
+  "had_osrm": false
+ },
+ {
+  "id": "tec",
+  "name": "TECABOCA",
+  "county": "Kerr",
+  "lat": 30.15,
+  "lon": -99.35,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "cro",
+  "name": "138 ac Crosswater Ranch",
+  "county": "Kerr",
+  "lat": 30.085,
+  "lon": -99.115,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "rivh",
+  "name": "165 ac River House Ranch",
+  "county": "Kerr",
+  "lat": 30.065,
+  "lon": -99.3,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "nor",
+  "name": "North Ranch",
+  "county": "Bandera",
+  "lat": 29.7,
+  "lon": -99.43,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "crog",
+  "name": "33 ac Cross Gate Ranch",
+  "county": "Bandera",
+  "lat": 29.8,
+  "lon": -99.15,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "swia",
+  "name": "1456 ac Swiss Alps Ranch",
+  "county": "Real",
+  "lat": 29.8,
+  "lon": -99.85,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "marc",
+  "name": "Marler Creek Ranch",
+  "county": "Bandera",
+  "lat": 29.81,
+  "lon": -99.56,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "kylr",
+  "name": "334 Acres Kyle Ranch Road",
+  "county": "Bandera",
+  "lat": 29.72,
+  "lon": -99.24,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "kot",
+  "name": "Koteras Ranch (150 ac)",
+  "county": "Bandera",
+  "lat": 29.62,
+  "lon": -98.79,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "kee",
+  "name": "1029 ac Keeney Ranch",
+  "county": "Real",
+  "lat": 30.1,
+  "lon": -99.68,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "silc",
+  "name": "Silver Creek Ranch",
+  "county": "Kerr",
+  "lat": 30.06,
+  "lon": -99.07,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "axib",
+  "name": "99 ac Axis Band Ranch",
+  "county": "Kerr",
+  "lat": 30.3,
+  "lon": -99.79,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "evac",
+  "name": "Evans Creek Ranch",
+  "county": "Bandera",
+  "lat": 29.745,
+  "lon": -99.52,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "ufc",
+  "name": "Upper Fall Creek Ranch",
+  "county": "Kerr",
+  "lat": 29.98,
+  "lon": -99.22,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "famc",
+  "name": "The Falls at Mill Creek",
+  "county": "Bandera",
+  "lat": 29.7505913,
+  "lon": -99.5396622,
+  "pin": "exact",
+  "had_osrm": false
+ },
+ {
+  "id": "tce",
+  "name": "Turtle Creek Estate",
+  "county": "Kerr",
+  "lat": 30.02,
+  "lon": -99.08,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "jbr",
+  "name": "J Bar River Ranch (45 ac)",
+  "county": "Kerr",
+  "lat": 30.04,
+  "lon": -99.42,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "eagr",
+  "name": "Eagle Ridge Ranch",
+  "county": "Kerr",
+  "lat": 29.97,
+  "lon": -99.13,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "jbr2",
+  "name": "J Bar River Ranch (260 ac)",
+  "county": "Kerr",
+  "lat": 30.04,
+  "lon": -99.42,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "flym",
+  "name": "Flying M Ranch",
+  "county": "Gillespie",
+  "lat": 30.468,
+  "lon": -98.819,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "bur",
+  "name": "207 ac Burnet (CR 963)",
+  "county": "Burnet",
+  "lat": 30.72,
+  "lon": -98.1,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "eags",
+  "name": "Eagles Summit Ranch",
+  "county": "Edwards",
+  "lat": 30.0,
+  "lon": -100.0,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "scs",
+  "name": "Seco Creek Secret",
+  "county": "Uvalde",
+  "lat": 29.64,
+  "lon": -99.26,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "dbd",
+  "name": "D Bar D Ranch",
+  "county": "Burnet",
+  "lat": 30.74,
+  "lon": -98.07,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "clo",
+  "name": "709 Ranch (1972 Clover Ln)",
+  "county": "Menard",
+  "lat": 30.9,
+  "lon": -99.9,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "shu",
+  "name": "Spring Hill Ranch (Utopia)",
+  "county": "Uvalde",
+  "lat": 29.556121,
+  "lon": -99.420082,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "ris",
+  "name": "Riske Ranch",
+  "county": "Burnet",
+  "lat": 31.0,
+  "lon": -98.18,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "welr",
+  "name": "Well Rock Ranch",
+  "county": "Sutton",
+  "lat": 30.55,
+  "lon": -100.6,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "fn",
+  "name": "#318 F5 North Ranch",
+  "county": "Edwards",
+  "lat": 29.75,
+  "lon": -100.35,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "fro",
+  "name": "331 ac with CR 310 frontage",
+  "county": "Edwards",
+  "lat": 29.7719,
+  "lon": -100.2761,
+  "pin": "exact",
+  "had_osrm": false
+ },
+ {
+  "id": "jj",
+  "name": "J-J Ranch",
+  "county": "Mason",
+  "lat": 30.7873,
+  "lon": -99.3204,
+  "pin": "exact",
+  "had_osrm": false
+ },
+ {
+  "id": "secc",
+  "name": "Seco Creek Ranch (42 ac)",
+  "county": "Medina",
+  "lat": 29.6,
+  "lon": -99.24,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "cedc",
+  "name": "75.86 ac on Cedar Creek",
+  "county": "Kimble",
+  "lat": 30.45,
+  "lon": -99.77,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "mlbf",
+  "name": "41.3 ac on the Main Llano (The Back Forty)",
+  "county": "Kimble",
+  "lat": 30.6,
+  "lon": -99.65,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "flys",
+  "name": "Flying S 189 Ranch",
+  "county": "Burnet",
+  "lat": 31.03,
+  "lon": -98.25,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "btc",
+  "name": "1956 Bourbon St (Three Crosses Ranch)",
+  "county": "Kimble",
+  "lat": 30.67,
+  "lon": -99.58,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "cieg",
+  "name": "Cielo Grande Ranch",
+  "county": "Uvalde",
+  "lat": 29.5725,
+  "lon": -99.5463,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "mlya",
+  "name": "82 ac on the Main Llano (Yates area)",
+  "county": "Kimble",
+  "lat": 30.55,
+  "lon": -99.98,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "easv",
+  "name": "East View Ranch",
+  "county": "Medina",
+  "lat": 29.58,
+  "lon": -98.99,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "fhe",
+  "name": "Farmhouse Hill Estate",
+  "county": "Burnet",
+  "lat": 30.72,
+  "lon": -98.17,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "arm",
+  "name": "62-Acre Ranch, Rio Medina",
+  "county": "Medina",
+  "lat": 29.43,
+  "lon": -98.93,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "hmm",
+  "name": "Hilltop Ranch (Mason Mountain)",
+  "county": "Mason",
+  "lat": 30.854063,
+  "lon": -99.261396,
+  "pin": "exact",
+  "had_osrm": false
+ },
+ {
+  "id": "dosr",
+  "name": "Dos Robles Ranch",
+  "county": "Menard",
+  "lat": 30.783,
+  "lon": -99.76,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "redc",
+  "name": "Red Creek Ranch",
+  "county": "Kimble",
+  "lat": 30.55,
+  "lon": -99.5,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "elkm",
+  "name": "Elk Mountain Ranch",
+  "county": "Edwards",
+  "lat": 29.88,
+  "lon": -100.25,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "lonl",
+  "name": "Lonestar Legacy Ranch",
+  "county": "Edwards",
+  "lat": 29.85,
+  "lon": -100.2,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "exoo",
+  "name": "Exotic Oak Ranch",
+  "county": "Kimble",
+  "lat": 30.3,
+  "lon": -99.45,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "noxc",
+  "name": "Noxville Creek Ranch",
+  "county": "Kimble",
+  "lat": 30.3,
+  "lon": -99.35,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "brus",
+  "name": "Brunkenhoefer Springs Ranch",
+  "county": "Kimble",
+  "lat": 30.49,
+  "lon": -99.92,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "milc",
+  "name": "Miller Creek Ranch",
+  "county": "Edwards",
+  "lat": 29.669755,
+  "lon": -100.038197,
+  "pin": "exact",
+  "had_osrm": false
+ },
+ {
+  "id": "may",
+  "name": "Mayfield Ranch",
+  "county": "Menard",
+  "lat": 30.8,
+  "lon": -99.45,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "nues",
+  "name": "Nueces Springs Ranch",
+  "county": "Uvalde",
+  "lat": 29.56,
+  "lon": -100.0,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "tur",
+  "name": "Turner Ranch",
+  "county": "Kimble",
+  "lat": 30.65,
+  "lon": -99.77,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "bigl",
+  "name": "#1030 Big L Ranch",
+  "county": "Edwards",
+  "lat": 29.85,
+  "lon": -100.15,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "jvj",
+  "name": "J Vann Jones Ranch",
+  "county": "Burnet",
+  "lat": 31.0,
+  "lon": -98.15,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "edwp",
+  "name": "214 Acres Edwards County (Pannell)",
+  "county": "Edwards",
+  "lat": 29.85,
+  "lon": -100.3,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "oak2",
+  "name": "146.89 Acres FM 2657 / CR 220 (Oakalla)",
+  "county": "Burnet",
+  "lat": 30.88,
+  "lon": -97.97,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "you",
+  "name": "Young Ranch",
+  "county": "Kimble",
+  "lat": 30.5,
+  "lon": -99.77,
+  "pin": "approx",
+  "had_osrm": false
+ },
+ {
+  "id": "verc",
+  "name": "Verde Creek Ranch",
+  "county": "Medina",
+  "lat": 29.5,
+  "lon": -99.2,
+  "pin": "approx",
+  "had_osrm": false
+ }
+]
