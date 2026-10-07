@@ -1,0 +1,99 @@
+id,name,verdict,action,reason
+rce,Rancho Cinco Estrella,ok,none,"HTTP 200, title names the listing"
+bass,Bass & Hays Ranch,blocked,check by hand,HTTP 403 Cloudflare challenge ('Just a moment...')
+fran,Frances Creek Ranch,moved,update URL,"redirects to /371-acres-in-real-county-texas/ (title '371 Acres in Real County TX', same acreage/county)"
+exh,Exotic Hills Ranch,ok,none,"HTTP 200, title names the listing"
+cbe,Canyon Breeze Estate,blocked,check by hand,HTTP 218 with empty page (bot wall)
+bull,Bullhead Creek Ranch,ok,none,"HTTP 200, title names the listing"
+cve,Camp Verde Escape,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+wrr,West River Ranch,ok,none,"HTTP 200, title names the listing"
+mof,Moffett Ridge Ranch,ok,none,"HTTP 200, title names the listing"
+vmr,Vista Madrone Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+vcr,Verde Creek Ranch (China St),ok,none,"HTTP 200, title names the listing"
+bwr,Blue Wildebeest Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+lat,Latham 1222 Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+bkt,Bucket List Ranch,ok,none,"HTTP 200, title names the listing"
+jac,JA Canyon,ok,none,"HTTP 200, title names the listing"
+hlr,High Lonesome Ranch,ok,none,"HTTP 200, title names the listing"
+hh,The H & H Ranch,ok,none,'thin page' only: listing renders with JavaScript; title names the listing
+wpt,Westpoint Ranch,ok,none,"HTTP 200, title names the listing"
+mni,M & I Ranch,ok,none,"HTTP 200, title names the listing"
+dd,Double D Ranch (KC 24),ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+jhr,Junction Hunting Ranch,ok,none,"HTTP 200, title names the listing"
+k189,189 ac Kimble County (KC 3721),ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+bda,Bois D' Arc Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+dun,Duncan River Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+oak,Oak Ridge Ranch,ok,none,"HTTP 200, title names the listing"
+fmm,Flying MMM on the Llano,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+ond,Ondine Ranch,index,none (link is a listings index by design),farms-ranches index page
+mtt,Mt. Tremont Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+lvc,Lake View Canyon Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+boh,Bohnert River Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+pal,Palmetto Creek Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+cwc,Cottonwood Creek Ranch,blocked,check by hand,HTTP 403 Cloudflare challenge ('Just a moment...')
+vvr,Valley View Ranch,ok,none,"HTTP 200, title names the listing"
+cir,Circle A Ranch,check,check by hand,"'SOLD' badge found near top outside nav; may be the site-wide 'JUST SOLD! Hackberry Road' banner, no listing status field found"
+brr,Barker-Rogers Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+ado,Adobe Springs Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+dout,Double Trouble Ranch,ok,none,"HTTP 200, title names the listing"
+dtp,Doe Trail Property,dead,fix link,redirects to password-protected login page (401)
+tris,Triple 4's Ranch,ok,none,"HTTP 200, title names the listing"
+tec,TECABOCA,ok,none,'redirected' only by URL-encoding case (%c2%b1 -> %C2%B1)
+cro,138 ac Crosswater Ranch,ok,none,"HTTP 200, title names the listing"
+rivh,165 ac River House Ranch,ok,none,"HTTP 200, title names the listing"
+nor,North Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+crog,33 ac Cross Gate Ranch,ok,none,"HTTP 200, title names the listing"
+swia,1456 ac Swiss Alps Ranch,ok,none,"HTTP 200, title names the listing"
+marc,Marler Creek Ranch,ok,none,"HTTP 200, title names the listing"
+kylr,334 Acres Kyle Ranch Road,ok,none,"HTTP 200, title names the listing"
+kot,Koteras Ranch (150 ac),ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+kee,1029 ac Keeney Ranch,ok,none,"HTTP 200, title names the listing"
+silc,Silver Creek Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+axib,99 ac Axis Band Ranch,ok,none,"HTTP 200, title names the listing"
+evac,Evans Creek Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+ufc,Upper Fall Creek Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+famc,The Falls at Mill Creek,ok,none,"HTTP 200, title names the listing"
+tce,Turtle Creek Estate,ok,none,"HTTP 200, title names the listing"
+jbr,J Bar River Ranch (45 ac),ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+eagr,Eagle Ridge Ranch,ok,none,"HTTP 200, title names the listing"
+jbr2,J Bar River Ranch (260 ac),ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+flym,Flying M Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+bur,207 ac Burnet (CR 963),ok,optional: update URL,"redirects to www. host, same listing"
+eags,Eagles Summit Ranch,ok,optional: update URL,"redirects to /properties/texas/hill-country/eagle-summit-ranch/, same listing"
+scs,Seco Creek Secret,ok,none,"HTTP 200, title names the listing"
+dbd,D Bar D Ranch,ok,optional: update URL,"redirects to www. host, same listing"
+clo,709 Ranch (1972 Clover Ln),ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+shu,Spring Hill Ranch (Utopia),ok,none,"HTTP 200, title names the listing"
+ris,Riske Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+welr,Well Rock Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+fn,#318 F5 North Ranch,ok,none,"HTTP 200, title names the listing"
+fro,331 ac with CR 310 frontage,ok,none,"HTTP 200, title names the listing"
+jj,J-J Ranch,ok,none,"HTTP 200, title names the listing"
+secc,Seco Creek Ranch (42 ac),ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+cedc,75.86 ac on Cedar Creek,ok,none,"HTTP 200, title names the listing"
+mlbf,41.3 ac on the Main Llano (The Back Forty),ok,none,"HTTP 200, title names the listing"
+flys,Flying S 189 Ranch,unchecked,check by hand / allow www.txranchbrokers.com,"site redirects to www.txranchbrokers.com, not on allowlist"
+btc,1956 Bourbon St (Three Crosses Ranch),blocked,check by hand,HTTP 218 with empty page (bot wall)
+cieg,Cielo Grande Ranch,index,none (link is a listings index by design),properties index page
+mlya,82 ac on the Main Llano (Yates area),ok,none,"HTTP 200, title names the listing"
+easv,East View Ranch,ok,none,"HTTP 200, title names the listing"
+fhe,Farmhouse Hill Estate,ok,none,"HTTP 200, title names the listing"
+arm,"62-Acre Ranch, Rio Medina",ok,none,"HTTP 200, title names the listing"
+hmm,Hilltop Ranch (Mason Mountain),unchecked,check by hand / allow www.southernranchsales.com,"site redirects to www.southernranchsales.com, not on allowlist"
+dosr,Dos Robles Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+redc,Red Creek Ranch,ok,none,"HTTP 200, title names the listing"
+elkm,Elk Mountain Ranch,ok,none,"HTTP 200, title names the listing"
+lonl,Lonestar Legacy Ranch,ok,none,"HTTP 200, title names the listing"
+exoo,Exotic Oak Ranch,ok,none,"HTTP 200, title names the listing"
+noxc,Noxville Creek Ranch,ok,none,"HTTP 200, title names the listing"
+brus,Brunkenhoefer Springs Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+milc,Miller Creek Ranch,check,check by hand,"200 but generic site title, listing name absent"
+may,Mayfield Ranch,ok,none,"HTTP 200, title names the listing"
+nues,Nueces Springs Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
+tur,Turner Ranch,ok,none,"HTTP 200, title names the listing"
+bigl,#1030 Big L Ranch,ok,none,"HTTP 200, title names the listing"
+jvj,J Vann Jones Ranch,unchecked,check by hand / allow www.txranchbrokers.com,"site redirects to www.txranchbrokers.com, not on allowlist"
+edwp,214 Acres Edwards County (Pannell),check,check by hand,"200 but generic site title, listing name absent"
+oak2,146.89 Acres FM 2657 / CR 220 (Oakalla),dead,fix link,HTTP 404 'Page not found - Shipley Ranches'
+you,Young Ranch,blocked,check by hand,HTTP 403 Akamai 'Access Denied' (land.com)
+verc,Verde Creek Ranch,ok,none,flag was a false positive: 'Sold'/'Off Market' in site menu or banner (see linkcheck_triage.csv)
