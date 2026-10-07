@@ -1,0 +1,590 @@
+[
+ {
+  "id": "rce",
+  "name": "Rancho Cinco Estrella",
+  "broker": "Bownds Ranches",
+  "url": "https://www.bowndsranches.com/texas-ranches-for-sale/rancho-cinco-estrella"
+ },
+ {
+  "id": "bass",
+  "name": "Bass & Hays Ranch",
+  "broker": "West and Swope Ranches",
+  "url": "https://westandswoperanches.com/listing/Bass-and-Hays-Ranch/1030-owl-hollow-road-leakey-tx-78873/"
+ },
+ {
+  "id": "fran",
+  "name": "Frances Creek Ranch",
+  "broker": "Mike and Cody's Texas Ranch Sales",
+  "url": "https://mikeandcodystexasranchsales.com/frances-creek-ranch/"
+ },
+ {
+  "id": "exh",
+  "name": "Exotic Hills Ranch",
+  "broker": "Meek Ranch Sales",
+  "url": "https://www.meekranchsales.com/all-properties/exotic-hills-ranch"
+ },
+ {
+  "id": "cbe",
+  "name": "Canyon Breeze Estate",
+  "broker": "Alamo City Realty",
+  "url": "https://www.alamocityrealty.com/listing-detail/1156783901/2027-Walter-White-Ranch-Road-Leakey-TX"
+ },
+ {
+  "id": "bull",
+  "name": "Bullhead Creek Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/347-ac-bullhead-creek-ranch/"
+ },
+ {
+  "id": "cve",
+  "name": "Camp Verde Escape",
+  "broker": "Dullnig Ranches",
+  "url": "https://dullnigranches.com/property/65-acres-camp-verde-escape/"
+ },
+ {
+  "id": "wrr",
+  "name": "West River Ranch",
+  "broker": "Bownds Ranches",
+  "url": "https://www.bowndsranches.com/texas-ranches-for-sale/west-river-ranch"
+ },
+ {
+  "id": "mof",
+  "name": "Moffett Ridge Ranch",
+  "broker": "Texas Ranch Sales LLC",
+  "url": "https://texasranchsalesllc.com/property/moffett-ridge-ranch-62-acres-bandera-county-texas/"
+ },
+ {
+  "id": "vmr",
+  "name": "Vista Madrone Ranch",
+  "broker": "Texas Land & Ranch Co",
+  "url": "https://www.texaslandandranch.net/property/vista-madrone-ranch"
+ },
+ {
+  "id": "vcr",
+  "name": "Verde Creek Ranch (China St)",
+  "broker": "Meek Ranch Sales",
+  "url": "https://www.meekranchsales.com/all-properties/verde-creek-ranch/"
+ },
+ {
+  "id": "bwr",
+  "name": "Blue Wildebeest Ranch",
+  "broker": "Republic Ranches",
+  "url": "https://republicranches.com/properties/texas/hill-country/blue-wildebeest-ranch/"
+ },
+ {
+  "id": "lat",
+  "name": "Latham 1222 Ranch",
+  "broker": "Jacoby Land Co.",
+  "url": "https://jacobylandco.com/pages/1222-ranch"
+ },
+ {
+  "id": "bkt",
+  "name": "Bucket List Ranch",
+  "broker": "Whitetail Properties",
+  "url": "https://www.whitetailproperties.com/hunting-land/texas/edwards/edwards-525-armstrong"
+ },
+ {
+  "id": "jac",
+  "name": "JA Canyon",
+  "broker": "Western Hill Country Realty",
+  "url": "https://westernhillcountryrealty.com/api/listings/ja-canyon"
+ },
+ {
+  "id": "hlr",
+  "name": "High Lonesome Ranch",
+  "broker": "Western Hill Country Realty",
+  "url": "https://westernhillcountryrealty.com/api/listings/high-lonesome-ranch"
+ },
+ {
+  "id": "hh",
+  "name": "The H & H Ranch",
+  "broker": "Simpson Ranches & Land",
+  "url": "https://simpsonranches.com/listings/the-h-&-h-ranch-ranch-for-sale"
+ },
+ {
+  "id": "wpt",
+  "name": "Westpoint Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/435.537-ac-rancho-vista-ranch/"
+ },
+ {
+  "id": "mni",
+  "name": "M & I Ranch",
+  "broker": "United Country Ranch Properties (Hudson)",
+  "url": "https://ucranchesforsale.com/property/m-i-ranch-622-acre-hunting-retreat-in-the-texas-hill-country/"
+ },
+ {
+  "id": "dd",
+  "name": "Double D Ranch (KC 24)",
+  "broker": "Bierschwale Land Company",
+  "url": "https://www.bierschwalelandco.com/property/double-d-ranch-kc24"
+ },
+ {
+  "id": "jhr",
+  "name": "Junction Hunting Ranch",
+  "broker": "Ahern Ranch Sales",
+  "url": "https://www.ahernranches.com/property/junction-hunting-ranch"
+ },
+ {
+  "id": "k189",
+  "name": "189 ac Kimble County (KC 3721)",
+  "broker": "Frazier Ranch Sales",
+  "url": "https://frazierranchsales.com/property/189-acres-kimble-county"
+ },
+ {
+  "id": "bda",
+  "name": "Bois D' Arc Ranch",
+  "broker": "Roberson Land Company",
+  "url": "https://robersonlandco.com/bois-d-arc-ranch"
+ },
+ {
+  "id": "dun",
+  "name": "Duncan River Ranch",
+  "broker": "Roberson Land Company",
+  "url": "https://robersonlandco.com/duncan-river-ranch"
+ },
+ {
+  "id": "oak",
+  "name": "Oak Ridge Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/138.61-ac-oak-ridge-ranch/"
+ },
+ {
+  "id": "fmm",
+  "name": "Flying MMM on the Llano",
+  "broker": "Dullnig Ranches",
+  "url": "https://dullnigranches.com/property/100-ac-flying-mmm-ranch/"
+ },
+ {
+  "id": "ond",
+  "name": "Ondine Ranch",
+  "broker": "Long Properties",
+  "url": "https://www.stephenlongproperties.com/farms-ranches"
+ },
+ {
+  "id": "mtt",
+  "name": "Mt. Tremont Ranch",
+  "broker": "Dullnig Ranches",
+  "url": "https://dullnigranches.com/property/200-acres-mt-tremont-ranch/"
+ },
+ {
+  "id": "lvc",
+  "name": "Lake View Canyon Ranch",
+  "broker": "Dullnig Ranches",
+  "url": "https://dullnigranches.com/property/248-acres-lake-view-canyon-ranch/"
+ },
+ {
+  "id": "boh",
+  "name": "Bohnert River Ranch",
+  "broker": "Texas Ranches For Sale",
+  "url": "https://www.texasranchesforsale.com/listings/kendall-county-bohnert-river-ranch-e-comfort-ranch-for-sale"
+ },
+ {
+  "id": "pal",
+  "name": "Palmetto Creek Ranch",
+  "broker": "Dullnig Ranches",
+  "url": "https://dullnigranches.com/property/72-acres-palmetto-creek-ranch/"
+ },
+ {
+  "id": "cwc",
+  "name": "Cottonwood Creek Ranch",
+  "broker": "West and Swope Ranches",
+  "url": "https://westandswoperanches.com/listing/cottonwood-creek/242-model-t-road-blanco-tx-78606/"
+ },
+ {
+  "id": "vvr",
+  "name": "Valley View Ranch",
+  "broker": "Anders Ranch Realty",
+  "url": "https://andersranchrealty.com/valley-view-ranch-blanco-county/"
+ },
+ {
+  "id": "cir",
+  "name": "Circle A Ranch",
+  "broker": "Texas Ranches For Sale",
+  "url": "https://www.texasranchesforsale.com/listings/gillespie-county-circle-a-ranch-n-of-kerrville-ranch-for-sale"
+ },
+ {
+  "id": "brr",
+  "name": "Barker-Rogers Ranch",
+  "broker": "The Reno Realty Group",
+  "url": "https://www.therenorealtygroup.com/properties/117-ac-barker-rogers-ranch"
+ },
+ {
+  "id": "ado",
+  "name": "Adobe Springs Ranch",
+  "broker": "Texas Ranches For Sale",
+  "url": "https://www.texasranchesforsale.com/listings/gillespie-county-adobe-springs-ranch-ne-fredericksburg-ranch-for-sale"
+ },
+ {
+  "id": "dout",
+  "name": "Double Trouble Ranch",
+  "broker": "Meek Ranch Sales",
+  "url": "https://www.meekranchsales.com/all-properties/double-trouble-ranch"
+ },
+ {
+  "id": "dtp",
+  "name": "Doe Trail Property",
+  "broker": "Land & Ranch Realty (Lem Lewis)",
+  "url": "https://www.landandranchrealty.com/257-acres.html"
+ },
+ {
+  "id": "tris",
+  "name": "Triple 4's Ranch",
+  "broker": "Meek Ranch Sales",
+  "url": "https://www.meekranchsales.com/all-properties/triple-4s-ranch"
+ },
+ {
+  "id": "tec",
+  "name": "TECABOCA",
+  "broker": "Dullnig Ranches / Kuper Sotheby's",
+  "url": "https://dullnigranches.com/property/95%c2%b1-acres-tecaboca/"
+ },
+ {
+  "id": "cro",
+  "name": "138 ac Crosswater Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/138-ac-crosswater-ranch/"
+ },
+ {
+  "id": "rivh",
+  "name": "165 ac River House Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/165-ac-river-house-ranch/"
+ },
+ {
+  "id": "nor",
+  "name": "North Ranch",
+  "broker": "Texas Land & Ranch Co (BHHS Hill Country Properties)",
+  "url": "https://www.texaslandandranch.net/property/north-ranch"
+ },
+ {
+  "id": "crog",
+  "name": "33 ac Cross Gate Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/33-ac-cross-gate-ranch/"
+ },
+ {
+  "id": "swia",
+  "name": "1456 ac Swiss Alps Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/1456-ac-swiss-alps-ranch/"
+ },
+ {
+  "id": "marc",
+  "name": "Marler Creek Ranch",
+  "broker": "Bownds Ranches",
+  "url": "https://www.bowndsranches.com/texas-ranches-for-sale/marler-creek-ranch"
+ },
+ {
+  "id": "kylr",
+  "name": "334 Acres Kyle Ranch Road",
+  "broker": "Shipley Ranches",
+  "url": "https://www.shipleyranches.com/property/334-acres-in-bandera-county-incredible-views"
+ },
+ {
+  "id": "kot",
+  "name": "Koteras Ranch (150 ac)",
+  "broker": "Texas Land & Ranch Co (BHHS Hill Country Properties)",
+  "url": "https://www.texaslandandranch.net/property/koteras-ranch"
+ },
+ {
+  "id": "kee",
+  "name": "1029 ac Keeney Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/1029-ac-keeney-ranch/"
+ },
+ {
+  "id": "silc",
+  "name": "Silver Creek Ranch",
+  "broker": "Dullnig Ranches",
+  "url": "https://dullnigranches.com/property/182-acres-silver-creek-ranch/"
+ },
+ {
+  "id": "axib",
+  "name": "99 ac Axis Band Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/99-ac-axis-band-ranch/"
+ },
+ {
+  "id": "evac",
+  "name": "Evans Creek Ranch",
+  "broker": "Texas Land & Ranch Co (BHHS Hill Country Properties)",
+  "url": "https://www.texaslandandranch.net/property/evans-creek-ranch"
+ },
+ {
+  "id": "ufc",
+  "name": "Upper Fall Creek Ranch",
+  "broker": "Dullnig Ranches / Kuper Sotheby's",
+  "url": "https://dullnigranches.com/property/upperfallcreekranch/"
+ },
+ {
+  "id": "famc",
+  "name": "The Falls at Mill Creek",
+  "broker": "Bownds Ranches",
+  "url": "https://www.bowndsranches.com/texas-ranches-for-sale/the-falls-at-mill-creek"
+ },
+ {
+  "id": "tce",
+  "name": "Turtle Creek Estate",
+  "broker": "Meek Ranch Sales",
+  "url": "https://www.meekranchsales.com/all-properties/turtle-creek-estate"
+ },
+ {
+  "id": "jbr",
+  "name": "J Bar River Ranch (45 ac)",
+  "broker": "Dullnig Ranches / Kuper Sotheby's",
+  "url": "https://dullnigranches.com/property/45-acres-j-bar-river-ranch/"
+ },
+ {
+  "id": "eagr",
+  "name": "Eagle Ridge Ranch",
+  "broker": "Meek Ranch Sales",
+  "url": "https://www.meekranchsales.com/all-properties/eagle-ridge-ranch"
+ },
+ {
+  "id": "jbr2",
+  "name": "J Bar River Ranch (260 ac)",
+  "broker": "Dullnig Ranches / Kuper Sotheby's",
+  "url": "https://dullnigranches.com/property/260-acres-j-bar-river-ranch/"
+ },
+ {
+  "id": "flym",
+  "name": "Flying M Ranch",
+  "broker": "Republic Ranches",
+  "url": "https://republicranches.com/properties/texas/hill-country/flying-m-ranch/"
+ },
+ {
+  "id": "bur",
+  "name": "207 ac Burnet (CR 963)",
+  "broker": "Shipley Ranches",
+  "url": "https://shipleyranches.com/property/207-ac-burnet-tx-water-topography-trees"
+ },
+ {
+  "id": "eags",
+  "name": "Eagles Summit Ranch",
+  "broker": "Republic Ranches",
+  "url": "https://republicranches.com/properties/eagle-summit-ranch/"
+ },
+ {
+  "id": "scs",
+  "name": "Seco Creek Secret",
+  "broker": "Utopia Ranch Realty",
+  "url": "https://utopiaranchrealty.com/property/seco-creek-secret-uvalde-texas/42744/"
+ },
+ {
+  "id": "dbd",
+  "name": "D Bar D Ranch",
+  "broker": "Shipley Ranches",
+  "url": "https://shipleyranches.com/property/d-bar-d-ranch-livewater-creek-and-stone-home"
+ },
+ {
+  "id": "clo",
+  "name": "709 Ranch (1972 Clover Ln)",
+  "broker": "Texas Ranches For Sale / Homestead & Ranch",
+  "url": "https://www.texasranchesforsale.com/listings/1972-clover-ln-menard-1994705"
+ },
+ {
+  "id": "shu",
+  "name": "Spring Hill Ranch (Utopia)",
+  "broker": "Bownds Ranches",
+  "url": "https://www.bowndsranches.com/texas-ranches-for-sale/spring-hill-ranch"
+ },
+ {
+  "id": "ris",
+  "name": "Riske Ranch",
+  "broker": "Bar T Realty, LLC",
+  "url": "https://bartrealtyllc.com/estate_property/riske-ranch/"
+ },
+ {
+  "id": "welr",
+  "name": "Well Rock Ranch",
+  "broker": "United Country M&M Ranch Land Investments",
+  "url": "https://www.mmranchlandinvestments.com/mls/view/130164/3420-ne-county-road-2596-sonora-tx-76950"
+ },
+ {
+  "id": "fn",
+  "name": "#318 F5 North Ranch",
+  "broker": "Western Hill Country Realty",
+  "url": "https://www.westernhillcountryrealty.com/api/listings/f5-north-ranch"
+ },
+ {
+  "id": "fro",
+  "name": "331 ac with CR 310 frontage",
+  "broker": "Whitetail Properties",
+  "url": "https://www.whitetailproperties.com/hunting-land/texas/edwards/331-acres-in-edwards-county-with-county-road-310-frontage"
+ },
+ {
+  "id": "jj",
+  "name": "J-J Ranch",
+  "broker": "Whitetail Properties Real Estate",
+  "url": "https://www.whitetailproperties.com/hunting-land/texas/mason/bellows-mason-532"
+ },
+ {
+  "id": "secc",
+  "name": "Seco Creek Ranch (42 ac)",
+  "broker": "Dullnig Ranches / Kuper Sotheby's",
+  "url": "https://dullnigranches.com/property/42-acres-seco-creek-ranch/"
+ },
+ {
+  "id": "cedc",
+  "name": "75.86 ac on Cedar Creek",
+  "broker": "Kothmann Real Estate",
+  "url": "https://kothmannrealestate.com/1-99-acres/75-86-acres/"
+ },
+ {
+  "id": "mlbf",
+  "name": "41.3 ac on the Main Llano (The Back Forty)",
+  "broker": "Kothmann Real Estate",
+  "url": "https://kothmannrealestate.com/1-99-acres/41-3-acres-2/"
+ },
+ {
+  "id": "flys",
+  "name": "Flying S 189 Ranch",
+  "broker": "Texas Ranch Brokers",
+  "url": "https://txranchbrokers.com/property/flying-s-189-ranch"
+ },
+ {
+  "id": "btc",
+  "name": "1956 Bourbon St (Three Crosses Ranch)",
+  "broker": "Homestead & Ranch Real Estate",
+  "url": "https://www.homesteadandranch.com/listing-detail/1185944623/1956-Bourbon-St.-London-TX"
+ },
+ {
+  "id": "cieg",
+  "name": "Cielo Grande Ranch",
+  "broker": "Garrett Realty",
+  "url": "https://garrettrealty.net/properties"
+ },
+ {
+  "id": "mlya",
+  "name": "82 ac on the Main Llano (Yates area)",
+  "broker": "Kothmann Real Estate",
+  "url": "https://kothmannrealestate.com/82-acres/"
+ },
+ {
+  "id": "easv",
+  "name": "East View Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/117-ac-east-view-ranch/"
+ },
+ {
+  "id": "fhe",
+  "name": "Farmhouse Hill Estate",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/86-ac-farmhouse-hill-estate/"
+ },
+ {
+  "id": "arm",
+  "name": "62-Acre Ranch, Rio Medina",
+  "broker": "J. Gruber Properties",
+  "url": "https://jgruberproperties.com/listing/62-acre-ranch/"
+ },
+ {
+  "id": "hmm",
+  "name": "Hilltop Ranch (Mason Mountain)",
+  "broker": "Southern Ranch Sales (Phyllis Browning Land & Ranch Co)",
+  "url": "https://southernranchsales.com/listing/8324/7487-north-us-highway-87-mason-tx-76856/"
+ },
+ {
+  "id": "dosr",
+  "name": "Dos Robles Ranch",
+  "broker": "Texas Ranches For Sale",
+  "url": "https://www.texasranchesforsale.com/listings/menard-county-dos-robles-ranch-s-of-menard-ranch-for-sale"
+ },
+ {
+  "id": "redc",
+  "name": "Red Creek Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/627-ac-red-creek-ranch/"
+ },
+ {
+  "id": "elkm",
+  "name": "Elk Mountain Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/1336-ac-elk-mountain-ranch/"
+ },
+ {
+  "id": "lonl",
+  "name": "Lonestar Legacy Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/271-ac-lonestar-legacy-ranch/"
+ },
+ {
+  "id": "exoo",
+  "name": "Exotic Oak Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/200-ac-exotic-oak-ranch/"
+ },
+ {
+  "id": "noxc",
+  "name": "Noxville Creek Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/6574-ac-noxville-creek-ranch/"
+ },
+ {
+  "id": "brus",
+  "name": "Brunkenhoefer Springs Ranch",
+  "broker": "Plumley Realty",
+  "url": "https://plumleyrealty.com/180-acres-junction-tx"
+ },
+ {
+  "id": "milc",
+  "name": "Miller Creek Ranch",
+  "broker": "Pannell Real Estate",
+  "url": "https://pannellrealestate.com/properties/id_18680853_camp_wood_61_acres.html"
+ },
+ {
+  "id": "may",
+  "name": "Mayfield Ranch",
+  "broker": "Texas Landmen",
+  "url": "https://www.texaslandmen.com/listings/193-ac-mayfield-ranch/"
+ },
+ {
+  "id": "nues",
+  "name": "Nueces Springs Ranch",
+  "broker": "Dullnig Ranches / Kuper Sotheby's",
+  "url": "https://dullnigranches.com/property/12-acres-nueces-springs-ranch/"
+ },
+ {
+  "id": "tur",
+  "name": "Turner Ranch",
+  "broker": "Meek Ranch Sales",
+  "url": "https://www.meekranchsales.com/all-properties/turner-ranch"
+ },
+ {
+  "id": "bigl",
+  "name": "#1030 Big L Ranch",
+  "broker": "Western Hill Country Realty",
+  "url": "https://www.westernhillcountryrealty.com/api/listings/big-l-ranch"
+ },
+ {
+  "id": "jvj",
+  "name": "J Vann Jones Ranch",
+  "broker": "Texas Ranch Brokers",
+  "url": "https://txranchbrokers.com/property/j-vann-jones-ranch"
+ },
+ {
+  "id": "edwp",
+  "name": "214 Acres Edwards County (Pannell)",
+  "broker": "Pannell Real Estate",
+  "url": "https://pannellrealestate.com/properties/mls_f124355_214_acres.html"
+ },
+ {
+  "id": "oak2",
+  "name": "146.89 Acres FM 2657 / CR 220 (Oakalla)",
+  "broker": "Shipley Ranches",
+  "url": "https://www.shipleyranches.com/property/146-89-acres-in-burnet-county-texas"
+ },
+ {
+  "id": "you",
+  "name": "Young Ranch",
+  "broker": "SLH Ranch & Land Group (relisted; Texas Ranch Sales page gone)",
+  "url": "https://www.land.com/Junction-TX/all-land/has-house/"
+ },
+ {
+  "id": "verc",
+  "name": "Verde Creek Ranch",
+  "broker": "Texas Ranches For Sale",
+  "url": "https://www.texasranchesforsale.com/listings/250-county-road-241-hondo-1991679"
+ }
+]
